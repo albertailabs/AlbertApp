@@ -2,6 +2,9 @@
 
 안드로이드 스마트기기(스마트폰, 태블릿PC)를 알버트AI와 연결하여 알버트를 조종하거나 제어할 수 있으며, 알버트AI 앱을 이용하여 학습할 수 있습니다.
 
+[![albertAI](http://img.youtube.com/vi/Z4u686UWag0/0.jpg)](https://youtu.be/Z4u686UWag0)
+
+
 
 
 시작하기
